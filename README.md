@@ -1,10 +1,9 @@
-# fosterforest
-Participatory simulation, adaptation to climate change, forestry
+**Bienvenue sur le site de _Foster Forest_**
 
-Foster Forest is a serious game designed to foster the adaptation to climate change in French forestry. It is based on a computerized agent-based model (encoded in SmallTalk, run with Cormas) and on six leaflets (1 x game master + 5 x players).
+_Foster Forest_ est une simulation participative pour l'adaptation aux changements climatiques des forestiers.
 
-# Bienvenue
-## Sur ce site, vous lirez des phrases comme celle-ci.
+***
 
-# Welcome
-## On this site, you'll read sentences like this one.
+_Foster Forest_ consiste en un atelier d'une demi-journée permettant à des forestiers publics, des propriétaires privés, des experts forestiers et des gestionnaires d'espaces naturels de tester ou d'imaginer des modes d'adaptations aux dérèglements climatiques en forêt française.
+
+# [View in English] (./https://www.youtube.com/watch?v=Hl1thnPla7E)
