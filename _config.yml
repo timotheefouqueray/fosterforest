@@ -1,6 +1,6 @@
 # Site wide configuration
 
-theme: jekyll-theme-cayman
+theme: cayman-blog
 title: Foster Forest
 # logo: # filename of a logo image that has been placed into your images directory
 
