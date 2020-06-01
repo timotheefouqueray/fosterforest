@@ -10,7 +10,7 @@
     Message:
     <textarea name="message"></textarea>
   </label>
-  <input type="hidden" name="_next" value="https://lemonde.fr"/>
+  <input type="hidden" name="_next" value="https://www.lemonde.fr"/>
   <button type="submit">Envoyer</button>
 </form>
 
