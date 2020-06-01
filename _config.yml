@@ -2,9 +2,16 @@
 
 theme: jekyll-theme-cayman
 title: Foster Forest
-show_downloads: false
-# logo: # filename of a logo image that has been placed into your images directory
+show_downloads: true
+github:
+  contact: https://timotheefouqueray.github.io/fosterforest/contact
+  another_url: www.lemonde.fr
 
+
+
+
+
+# logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Timothée Fouqueray
