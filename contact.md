@@ -1,16 +1,13 @@
-A page where to contact me
- 
-<body>
 <form
   action="https://formspree.io/xzbjrzbr"
   method="POST"
 >
   <label>
-    Your email:
+    Votre email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
+    Votre message:
     <textarea name="message"></textarea>
   </label>
 
@@ -18,4 +15,3 @@ A page where to contact me
 
   <button type="submit">Send</button>
 </form>
-</body>
