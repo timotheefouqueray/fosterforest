@@ -3,15 +3,23 @@
   method="POST"
 >
   <label>
-    Your email:
+  
+  
+  </label>
+  <label>
+    Votre email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
+  
+  
+  </label>
+  <label>
+    Message:
     <textarea name="message"></textarea>
   </label>
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">Envoyer</button>
 </form>
