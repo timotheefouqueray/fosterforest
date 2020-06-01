@@ -11,20 +11,14 @@
                     <div class="mb-3">
                         <label for="_replyto" class="required-label">E-mail</label>
                         <input type="email" class="form-control" id="_replyto" name="_replyto" placeholder="" required>
-                        <div class="invalid-feedback">
-                            Veullez entrer votre adresse e-mail
-                        </div>
                     </div>
                     <div class="mb-3">
                         <label for="contactMessage" class="required-label">Votre message</label>
                         <textarea class="form-control" id="contactMessage" name="contactMessage" placeholder=""
                             required></textarea>
-                        <div class="invalid-feedback">
-                            Veuillez entrez votre message
-                        </div>
                     </div>
                     <hr class="mb-4">
-                    <button class="btn btn-primary btn-lg btn-block" type="submit" id="submit-btn">Envoyer</button>
+                    <button type="submit" >Envoyer</button>
                 </form>
             </div>
         </div>
