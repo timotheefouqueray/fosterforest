@@ -20,7 +20,7 @@ Des initiatives similaires à _Foster Forest_ existent :
 
 
 
-## [L'équipe](https://timotheefouqueray.github.io/fosterforest/equipe.md)
+## [L'équipe](https://timotheefouqueray.github.io/fosterforest/equipe)
 
 
 
