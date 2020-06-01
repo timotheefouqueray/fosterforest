@@ -4,8 +4,11 @@ theme: jekyll-theme-cayman
 title: Foster Forest
 show_downloads: false
 github:
+  home:  https://timotheefouqueray.github.io/fosterforest/
+  research: https://timotheefouqueray.github.io/fosterforest/research
+  prospective: https://timotheefouqueray.github.io/fosterforest/prospective
   contact: https://timotheefouqueray.github.io/fosterforest/contact
-  another_url: https://www.lemonde.fr
+
 
 
 
