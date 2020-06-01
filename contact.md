@@ -1,6 +1,7 @@
 A page where to contact me
  
-  <form
+<body>
+<form
   action="https://formspree.io/xzbjrzbr"
   method="POST"
 >
@@ -17,3 +18,4 @@ A page where to contact me
 
   <button type="submit">Send</button>
 </form>
+</body>
