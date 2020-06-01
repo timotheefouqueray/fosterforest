@@ -2,7 +2,7 @@
 
 theme: jekyll-theme-cayman
 title: Foster Forest
-show_downloads: true
+show_downloads: false
 github:
   contact: https://timotheefouqueray.github.io/fosterforest/contact
   another_url: https://www.lemonde.fr
