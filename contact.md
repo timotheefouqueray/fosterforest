@@ -1,11 +1,16 @@
-<body>
-<form name="input" method="POST" action="https://formspree.io/xzbjrzbr">
- Name: <input type="text" name="Name" placeholder="Your name">
- 
- Email: <input type="email" name="_replyto" placeholder="Your email">
- ***
- Message: <textarea name="message" placeholder="Type your message"></textarea>
- <input type="submit" value="Send">
- <input type="hidden" name="_next" value="https://lemonde.fr" />
+<form
+  action="https://formspree.io/xzbjrzbr"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your file:
+    <input type="file" name="upload">
+  </label>
+
+  <button type="submit">Send</button>
 </form>
-</body>
