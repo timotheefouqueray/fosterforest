@@ -1,21 +1,13 @@
 <body class="bg-light">
     <div class="container">
         <div class="py-5 text-center">
-            <h2>Nous contacter</h2>
+            <h2>Contact</h2>
         </div>
         <div class="row">
             <div class="col-md-12 order-md-1">
                 <h4 class="mb-3">Envie d'en savoir plus ?</h4>
                 <form class="needs-validation" id="contact-form" action="https://formspree.io/xzbjrzbr" method="POST"
                     novalidate>
-                    <div class="mb-3">
-                        <label for="contactName" class="required-label">Nom & Prénom (& société)</label>
-                        <input type="text" class="form-control" id="contactName" name="contactName" placeholder=""
-                            required>
-                        <div class="invalid-feedback">
-                            Veuillez entrer votre nom
-                        </div>
-                    </div>
                     <div class="mb-3">
                         <label for="_replyto" class="required-label">E-mail</label>
                         <input type="email" class="form-control" id="_replyto" name="_replyto" placeholder="" required>
