@@ -1,17 +1,6 @@
-<form
-  action="https://formspree.io/xzbjrzbr"
-  method="POST"
->
-  <label>
-    Votre email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Votre message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+<form action="https://formspree.io/xzbjrzbr"
+      method="POST">
+    <input type="Message" name="name">
+    <input type="Email" name="_replyto">
+    <input type="Envoyer" value="Send">
 </form>
