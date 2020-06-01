@@ -19,7 +19,7 @@
                     </div>
                     <hr class="mb-4">
                     <button type="submit" >Envoyer</button>
-                    <input type="hidden" name="_next" value="https://timotheefouqueray.github.io/fosterforest/merci" />
+                    <input type="hidden" name="_next" value="https://timotheefouqueray.github.io/fosterforest/merci.html" />
                 </form>
             </div>
         </div>
