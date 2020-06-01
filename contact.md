@@ -1,7 +1,5 @@
-<form
-  action="https://formspree.io/xzbjrzbr"
-  method="POST"
->
+<form action="https://formspree.io/xzbjrzbr" method="POST">
+  <input type="hidden" name="_next" value="http://www.raymondcamden.com/thankyou">
   <label>
     Votre email:
     <input type="text" name="_replyto">
@@ -10,7 +8,6 @@
     Message:
     <textarea name="message"></textarea>
   </label>
-  <input type="hidden" name="_next" value="https://www.lemonde.fr"/>
   <button type="submit">Envoyer</button>
 </form>
 
