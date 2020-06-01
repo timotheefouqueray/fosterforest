@@ -8,6 +8,7 @@
                 <h4 class="mb-3">Envie d'en savoir plus ?</h4>
                 <form class="needs-validation" id="contact-form" action="https://formspree.io/xzbjrzbr" method="POST"
                     novalidate>
+                <input type="hidden" name="_next" value="https://timotheefouqueray.github.io/fosterforest/merci.html"/>
                     <div class="mb-3">
                         <label for="_replyto" class="required-label">E-mail</label>
                         <input type="email" class="form-control" id="_replyto" name="_replyto" placeholder="" required>
@@ -19,7 +20,6 @@
                     </div>
                     <hr class="mb-4">
                     <button type="submit" >Envoyer</button>
-                    <input type="hidden" name="_next" value="https://timotheefouqueray.github.io/fosterforest/merci.html" />
                 </form>
             </div>
         </div>
