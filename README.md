@@ -7,11 +7,11 @@ Cet atelier d'une demi-journée permet à des forestiers publics, des propriéta
 
 ***
 
-## [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
+### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
 Articles scientifiques, blogs, compléments de lecture.
 
-## [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
+### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
 Pour en savoir plus sur l'équipe à l'origine de _Foster Forest_.
 
-## [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
 _Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
