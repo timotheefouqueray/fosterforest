@@ -3,14 +3,18 @@
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points.
 
 
-[Télécharger le logiciel de la version recherche](www.liberation.fr)
-
-_Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à [cette adresse](http://cormas.cirad.fr).
+[Télécharger le logiciel de la version recherche](https://www.liberation.fr). _Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à [cette adresse](http://cormas.cirad.fr).
 
 
 
-[Télécharger les livrets de jeu de la version recherche](www.lemonde.fr)
+[Télécharger les livrets de jeu de la version recherche](https://www.lemonde.fr)
 
+
+### Utiliser la version recherche
+
+L'animation du jeu est présentée dans le Livret du maître du jeu, [disponible ici](https://lemonde.fr).
+
+Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
 ### Différence versions Recherche & Prospective
@@ -23,12 +27,8 @@ La version Recherche se distingue de la version Prospective (ajouter lien ici) e
 
 Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaires relatifs aux connaissances des participants en sciences forestières, changement climatique et expérience de jeu (un questionnaire avant et un après la simulation à proprement parler).
 
-![Branching](https://github.com/timotheefouqueray/fosterforest/recherche/déroulé_atelier_recherche.jpg)
+![Branching](https://github.com/timotheefouqueray/fosterforest/blob/master/recherche/déroulé_atelier_recherche.jpg)
 
-
-2.3. L'animation du jeu est présentée dans le Livret du maître du jeu, disponible à la page lien vers la page.
-
-Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
 * * *
