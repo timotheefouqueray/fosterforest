@@ -17,7 +17,7 @@ L'animation du jeu est présentée dans le Livret du maître du jeu, [disponible
 Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
-### Différence versions Recherche & Prospective
+### Différences versions Recherche & Prospective
 
 La version Recherche se distingue de la version Prospective (ajouter lien ici) en plusieurs points :
 - elle comprend 50 parcelles au lieu des 32 parcelles de la version Prospective
