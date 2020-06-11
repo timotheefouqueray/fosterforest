@@ -1,4 +1,4 @@
-## Bienvenue sur le site de _Foster Forest_
+# Bienvenue sur le site de _Foster Forest_
 
 _Foster Forest_ est une simulation participative pour l'adaptation aux changements climatiques des forestiers.
 
