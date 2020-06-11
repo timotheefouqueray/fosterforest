@@ -1,4 +1,4 @@
-## Télécharger la version Recherche de _Foster Forest_
+# Télécharger la version Recherche de _Foster Forest_
 
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points.
 
@@ -10,14 +10,14 @@ La version de _Foster Forest_ disponible sur cette page est la version Recherche
 [Télécharger les livrets de jeu de la version recherche](https://www.lemonde.fr)
 
 
-### Utiliser la version recherche
+## Utiliser la version recherche
 
 L'animation du jeu est présentée dans le Livret du maître du jeu, [disponible ici](https://lemonde.fr).
 
 Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
-### Différences versions Recherche & Prospective
+## Différences versions Recherche & Prospective
 
 La version Recherche se distingue de la version Prospective (ajouter lien ici) en plusieurs points :
 - elle comprend 50 parcelles au lieu des 32 parcelles de la version Prospective
@@ -33,6 +33,6 @@ Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaire
 
 * * *
 
-## [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
+### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
 
-## [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
