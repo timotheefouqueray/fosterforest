@@ -1,20 +1,20 @@
-## Stimuler et accompagner l'adaptation aux changements climatiques en forêt
+# Stimuler et accompagner l'adaptation aux changements climatiques en forêt
 
-Après avoir servi comme outil de recherche, _Foster Forest_ a évolué vers une version prospective. Cette nouvelle version se veut plus ergonomique (32 parcelles à gérer et non plus 50 ; une interface nécessitant moins de clics à l'usage) et recentrée sur l'adaptation aux changements climatiques (la chasse est automatisée par le logiciel ; des propositions d'adaptations sont directement incluses dans le déroulé du jeu).
+Après avoir servi comme outil de recherche, _Foster Forest_ a évolué vers une version prospective.
 
 Un atelier _Foster Forest_ peut désormais servir à simuler de très forts dérèglements climatiques sur un territoire forestier, afin d'inciter les participants d'un atelier à proposer ou tester des solutions d'adaptations. Ces solutions se veulent réversibles, sans regrets, et dimensionnées sur des pas de temps plus courts que les solutions techniques.
 
 La version prospective peut aussi être intégrée à des modules de formation en écologie ou en sciences forestières.
 
 
-### Pourquoi ?
+## Pourquoi ?
 
 Blablabla pourquoi
 
 Par exemple, il est possible de mettre en place un système d'appellation locale de qualité du bois. Face aux menaces climatiques pesant sur les volumes de bois produits, le but est de permettre aux propriétaires et forestiers de mieux valoriser la sylviculture.
 
 
-### Pour qui ?
+## Pour qui ?
 
 > Pour toute structure d'animation territoriale désireuse de travailler collectivement à la réflexion sur l'adaptation de la foresterie aux dérèglements climatiques.
 
@@ -25,11 +25,15 @@ Par exemple, il est possible de mettre en place un système d'appellation locale
 *Exemples : module introductif à la gestion forestière en master d'écologie ; préparation ou bilan d'une tournée forestière en école d'ingénieurs ; ...*
 
 
-### Comment ?
+## Comment ?
 
 Comme pour la version recherche, la version prospective de _Foster Forest_ combine un logiciel et des livrets de jeu.
 
 Pour y accéder et en savoir plus, consulter la page dédiée des [téléchargements] et celle des [tutoriels] explicant l'utilisation du logiciel et des livrets de jeu.
+
+## Quelles différences avec la version Recherche ?
+
+Cette nouvelle version se veut plus ergonomique (32 parcelles à gérer et non plus 50 ; une interface nécessitant moins de clics à l'usage) et recentrée sur l'adaptation aux changements climatiques (la chasse est automatisée par le logiciel ; des propositions d'adaptations sont directement incluses dans le déroulé du jeu).
 
 
 
