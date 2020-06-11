@@ -1,4 +1,4 @@
-### S(t)imuler l'adaptation des forestiers aux changements climatiques
+# S(t)imuler l'adaptation des forestiers aux changements climatiques
 
 *Foster Forest* est un jeu sérieux créé pour simuler et stimuler l’adaptation aux changements climatiques des forestiers, et plus particulièrement des adaptations non-techniques (ex : économiques, organisationnelles). *Foster Forest* consiste en un atelier d’une demi-journée, réunissant des propriétaires privés, un(e) agent de l’ONF, un(e) élu(e) municipal(e) et un(e) gestionnaire d’espace naturel protégé autour d’une simulation informatique d’un massif forestier. Durant l’atelier, chacun des joueurs devra prendre des décisions de gestion forestière, dans un contexte où chaque nouveau tour de jeu est le théâtre de dérèglements climatiques très forts (difficultés de régénération, sécheresses). *Foster Forest* s’intéresse à la manière dont les participants diversifient ou pas leur gestion forestière : est-ce à l’échelle de leurs propres parcelles, du massif entier ? Est-ce individuellement, en tentant de modifier les politiques publiques, les marchés de bois ou de carbone, ou en mettant en place d’autres types d’actions collectives ?
 
@@ -10,7 +10,7 @@ Au total, neuf sessions de l’atelier *Foster Forest* ont eu lieu entre début 
 
 Chaque partie a présenté des spécificités, qui ont fortement dépendu des participants. Toutefois, des grandes tendances ont pu se détacher de l’ensemble des sessions jouées, et de leur comparaison.
 
-### Principaux résultats
+## Principaux résultats
 
 L’analyse des sessions de jeu s’est fondée sur le visionnage et l’écoute des enregistrements des parties, et largement sur le contenu des débriefs suivant chaque partie. Les ateliers ont confirmé les résultats d’études préalablement menées par Timothée Fouqueray, créateur du jeu.
 
@@ -23,6 +23,6 @@ Au-delà de la confirmation de ces résultats, les sessions *Foster Forest* ont 
 
 * * *
 
-## [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
+### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
 
-## [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
