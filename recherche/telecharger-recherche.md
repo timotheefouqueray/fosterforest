@@ -31,6 +31,8 @@ Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaire
 Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
+* * *
+
 ## [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
 
 ## [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
