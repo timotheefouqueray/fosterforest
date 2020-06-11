@@ -16,9 +16,11 @@ Par exemple, il est possible de mettre en place un système d'appellation locale
 
 ## Pour qui ?
 
+
 Pour toute structure d'animation territoriale désireuse de travailler collectivement à la réflexion sur l'adaptation de la foresterie aux dérèglements climatiques.
 
 > *Exemples : un parc naturel régional qui souhaite réunir les parties prenantes d'un projet LIFE ; une association de communes forestières désireuse de sensibiliser les nouvelles équipes municipales à la place de la forêt dans les plans d'aménagement ; une antenne régionale du CNPF voulant compléter l'offre d'un stage type FOGEFOR ; ...*
+
 
 Pour des équipes pédagogiques souhaitant renforcer leurs formations. Pré-requis : que les participants disposent déjà de bases en gestion forestière (principes de l'inventaire forestier & des gestions régulière/irrégulière).
 
