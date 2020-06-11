@@ -33,6 +33,6 @@ Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaire
 
 * * *
 
-### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectifs-results)
+### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectif-results)
 
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
