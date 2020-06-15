@@ -7,7 +7,6 @@ Au total, neuf sessions de l’atelier *Foster Forest* ont eu lieu entre début 
 
 ![Foster-Forest_Retours_Carte](https://timotheefouqueray.github.io/fosterforest/recherche/Foster-Forest_Retours_Carte.png)
 
-
 Chaque partie a présenté des spécificités, qui ont fortement dépendu des participants. Toutefois, des grandes tendances ont pu se détacher de l’ensemble des sessions jouées, et de leur comparaison.
 
 ## Principaux résultats
