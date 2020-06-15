@@ -5,7 +5,7 @@
 Au total, neuf sessions de l’atelier *Foster Forest* ont eu lieu entre début mai et fin juillet 2019. Elles ont eu lieu dans les massifs forestiers indiqués sur la carte ci-après (deux parties ont eu lieu dans les Pyrénées).
 
 
-![Foster-Forest_Retours_Carte](https://github.com/timotheefouqueray/fosterforest/blob/master/recherche/Foster-Forest_Retours_Carte.png)
+![Foster-Forest_Retours_Carte](https://timotheefouqueray.github.io/fosterforest/recherche/Foster-Forest_Retours_Carte.png)
 
 
 Chaque partie a présenté des spécificités, qui ont fortement dépendu des participants. Toutefois, des grandes tendances ont pu se détacher de l’ensemble des sessions jouées, et de leur comparaison.
@@ -25,4 +25,4 @@ Au-delà de la confirmation de ces résultats, les sessions *Foster Forest* ont 
 
 ### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectif-results)
 
-### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+### [Téléchargement de la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
