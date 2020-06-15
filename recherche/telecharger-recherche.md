@@ -12,9 +12,7 @@ La version de _Foster Forest_ disponible sur cette page est la version Recherche
 
 ## Utiliser la version recherche
 
-L'animation du jeu est présentée dans le Livret du maître du jeu, [disponible ici](https://lemonde.fr).
-
-Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
+En plus du livret du maître du jeu, téléchargeable ci-dessus, des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. Ces tutoriels, relatifs à la version Prospective, apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
 ## Différences versions Recherche & Prospective
@@ -31,8 +29,25 @@ Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaire
 
 
 
-* * *
+***
 
-### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectif-results)
+## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
+### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
 
+***
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
+### *[Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)*
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+
+***
+## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
+### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
+### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+
+***
+## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
+
+***
+## [English](https://liberation.fr)
