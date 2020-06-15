@@ -9,9 +9,15 @@ La version prospective peut aussi être intégrée à des modules de formation e
 
 ## Pourquoi ?
 
-Blablabla pourquoi
+La plupart des dispositifs d'innovation et d'accompagnement à l'adaptation aux changements climatiques se fondent exclusivement sur une approche technique de la foresterie.
 
-Par exemple, il est possible de mettre en place un système d'appellation locale de qualité du bois. Face aux menaces climatiques pesant sur les volumes de bois produits, le but est de permettre aux propriétaires et forestiers de mieux valoriser la sylviculture.
+> *Exemples : raccourcissement des rotations ; modification des essences en place ; migration assistée ; ...*
+
+Si les adaptations techniques sont nécessaires, elles ne seront pas forcément suffisantes partout ou en tout temps pour faire face aux perturbations apportées par les dérèglements climatiques. Ainsi, des adaptations complémentaires peuvent être utiles pour que la foresterie maintienne les multiples usages des espaces forestiers.
+
+Ces adaptations, indirectes, se fondent sur la diversification non seulement des techniques, mais aussi des manières d'utiliser les forêts. Dans _Foster Forest_, ces adaptations peuvent entre autres s'appuyer sur des services écosystémiques occupant de plus en plus le devant de la scène, du fait des évolutions sociales et climatiques : demande accrue en bois de qualité, stockage de carbone, volonté de "paysage" de la part des habitants, etc.
+
+> *Exemple : dans _Foster Forest_, il est possible de mettre en place un système d'appellation locale de qualité du bois. Face aux menaces climatiques pesant sur les volumes de bois produits, le but est de permettre aux propriétaires et forestiers de mieux valoriser la sylviculture.*
 
 
 ## Pour qui ?
@@ -31,7 +37,7 @@ Pour des équipes pédagogiques souhaitant renforcer leurs formations. Pré-requ
 
 Comme pour la version recherche, la version prospective de _Foster Forest_ combine un logiciel et des livrets de jeu.
 
-Pour y accéder et en savoir plus, consulter la page dédiée des [téléchargements] et celle des [tutoriels] explicant l'utilisation du logiciel et des livrets de jeu.
+Pour y accéder et en savoir plus, consulter la page dédiée des [téléchargements]((https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)) et celle des [tutoriels](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels) explicant l'utilisation du logiciel et des livrets de jeu.
 
 ## Quelles différences avec la version Recherche ?
 
@@ -39,9 +45,26 @@ Cette nouvelle version se veut plus ergonomique (32 parcelles à gérer et non p
 
 
 
-* * *
+***
 
+## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
+### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+
+***
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
+### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
+### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+
+***
+## *[Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)*
 ### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
-
 ### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+
+***
+## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
+
+***
+## [English](https://liberation.fr)
 
