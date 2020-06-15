@@ -1,4 +1,4 @@
-# Stimuler et accompagner l'adaptation aux changements climatiques en forêt
+# Prospective / Accompagner l'adaptation aux changements climatiques en forêt
 
 Après avoir servi comme outil de recherche, _Foster Forest_ a évolué vers une version prospective.
 
