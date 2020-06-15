@@ -6,7 +6,7 @@ Cet atelier d'une demi-journée permet à des forestiers publics, des propriéta
 
 ***
 
-## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+## *[Accueil](https://timotheefouqueray.github.io/fosterforest/README)*
 ### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
 Articles scientifiques, compléments à lire et à visionner.
 ### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
