@@ -1,6 +1,6 @@
 # _Foster Forest_ est une simulation participative pour l'adaptation aux changements climatiques des forestiers.
 
-![Logo_FF](https://timotheefouqueray.github.io/fosterforest/images/FF_Logo_medium.jpg)
+![Logo_FF](https://timotheefouqueray.github.io/fosterforest/images/FF_Logo_medium.jpg | width=100)
 
 Cet atelier d'une demi-journée permet à des forestiers publics, des propriétaires privés, des experts forestiers et des gestionnaires d'espaces naturels de tester ou d'imaginer des modes d'adaptations aux dérèglements climatiques en forêt française.
 
