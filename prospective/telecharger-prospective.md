@@ -1,4 +1,4 @@
-# Télécharger la version Prospective de _Foster Forest_
+# Prospective / Télécharger la version Prospective de _Foster Forest_
 
 La version de _Foster Forest_ disponible sur cette page est la version Prospective. Elle combine deux éléments : un logiciel et des livrets de jeu.
 
