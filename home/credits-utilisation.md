@@ -2,7 +2,7 @@
 
 ## Propriété intellectuelle
 
-_Foster Forest_ est protégé par XXX. Par conséquent, son utilisation est gratuite et libre de droits, sous réserve de prendre reconnaissance des points ci-dessous.
+_Foster Forest_ est protégé par XXX. Par conséquent, son utilisation et sa diffusion sont gratuites et libres de droits, sous réserve de prendre reconnaissance des points ci-dessous.
 
 ## Posture de l'équipe de conception
 
@@ -11,15 +11,17 @@ Sa conception a repris les [principes de la modélisation d'accompagnement](http
 - le partage de ces points de vue et savoir lors de  temps d'échanges  collectifs
 - un processus de modélisation adaptatif, ouvert et utilisé pour simuler les systèmes forestiers français.
 
-Ainsi, l'utilisation de _Foster Forest_ n'implique absolument pas, pour les participants, de devoir s'engager dans quelque action que ce soit qui proviendrait pour tout ou partie du jeu.
+Ainsi, l'utilisation de _Foster Forest_ n'implique absolument pas, pour les participants, de devoir s'engager dans quelque action que ce soit qui proviendrait pour tout ou partie du jeu. Cette posture permet aux ateliers de véritablement être des espaces de dialogue et d'exploration d'idées.
  
-## Posture des utilisateurs de _Foster Forest_
+## Engagements pour qui voudrait utiliser _Foster Forest_
 
-> 1. 
+En mettant en place un atelier _Foster Forest_, tout.e futur.e maître.sse du jeu reconnaît que :
 
-> 2.
+1. _Foster Forest_ a été développé dans une vision multifonctionnelle de la forêt, équilibrant fonctions écologiques, productives et sociales. En transformer le logiciel ou les livrets de jeu est de la responsabilité des modificateurs.
 
-> 3. Ni la responsabilité de l'équipe de conception de _Foster Forest_, ni celle d'AgroParisTech, dépositaire de la propriété intellectuelle de _Foster Forest_, ne sont engagées.
+2. La tenue d'un atelier nécessite d'en expliciter l'objectif aux participants invités, en leur proposant un renvoi vers ce site pour disposer de plus d'informations.
+
+3. Ni l'équipe de conception de _Foster Forest_, ni AgroParisTech, dépositaire de la propriété intellectuelle de _Foster Forest_, ne peuvent être tenus responsables du déroulement d'une partie. L'équipe de conception reste néanmoins disponible à toute demande de conseil concernant une éventuelle utilisation (voir le [formulaire de contact](https://timotheefouqueray.github.io/fosterforest/contact)).
 
 
 
