@@ -19,7 +19,7 @@ Des tutoriels vidéo (avec lien) expliquent l'installation et le lancement de Co
 
 ## Différences versions Recherche & Prospective
 
-La version Recherche se distingue de la version Prospective (ajouter lien ici) en plusieurs points :
+La version Recherche se distingue de la version [Prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective) en plusieurs points :
 - elle comprend 50 parcelles au lieu des 32 parcelles de la version Prospective
 - elle inclut la gestion de la chasse
 - son interface de prise de décision à la parcelle est moins ergonomique
