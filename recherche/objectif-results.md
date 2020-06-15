@@ -1,4 +1,4 @@
-# _Foster Forest_, un outil de recherche
+# Recherche / _Foster Forest_, un outil de recherche
 
 _Foster Forest_ est un jeu sérieux créé pour simuler et stimuler l’adaptation aux changements climatiques des forestiers, et plus particulièrement des adaptations non-techniques (ex : économiques, organisationnelles). 
 
