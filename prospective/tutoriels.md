@@ -1,4 +1,4 @@
-# Tutoriels d'utilisation du logiciel et des livrets de jeu de la version Prospective
+# Prospective / Tutoriels d'utilisation du logiciel et des livrets de jeu de la version Prospective
 
 [Installer le logiciel _Foster Forest_ avec Cormas](www.liberation.fr)
 
