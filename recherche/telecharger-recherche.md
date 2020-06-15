@@ -7,7 +7,7 @@ La version de _Foster Forest_ disponible sur cette page est la version Recherche
 
 
 
-[Télécharger les livrets de jeu de la version recherche](https://www.lemonde.fr)
+[Télécharger les livrets de jeu et d'animation de la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/FosterForest_Research-Livrets.zip).
 
 
 ## Utiliser la version recherche
