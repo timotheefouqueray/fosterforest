@@ -7,16 +7,26 @@ _Foster Forest_ est un atelier d'une demi-journée permettant à des forestiers 
 
 ***
 
-## Crédits & conditions d'utilisation
-
-_Foster Forest_ est protégé par une license XXX.
-
-+ Blablabla conditions d'utilisation.
-
-***
-
+## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
 ### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
-Articles scientifiques, blogs, compléments de lecture.
-
+Articles scientifiques, compléments à lire et à visionner.
 ### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
 Pour en savoir plus sur l'équipe à l'origine de _Foster Forest_.
+### *[Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)*
+_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
+
+***
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
+### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
+### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+
+***
+## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
+### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
+### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+
+***
+## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
+
+***
+## [English](https://liberation.fr)
