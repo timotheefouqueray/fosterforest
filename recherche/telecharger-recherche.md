@@ -27,7 +27,7 @@ La version Recherche se distingue de la version Prospective (ajouter lien ici) e
 
 Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaires relatifs aux connaissances des participants en sciences forestières, changement climatique et expérience de jeu (un questionnaire avant et un après la simulation à proprement parler).
 
-![Branching](../recherche/déroulé_atelier_recherche.jpg)
+![Branching](https://timotheefouqueray.github.io/fosterforest/recherche/déroulé_atelier_recherche.jpg)
 
 
 
