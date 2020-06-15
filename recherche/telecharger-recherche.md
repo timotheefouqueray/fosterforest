@@ -1,4 +1,4 @@
-# Télécharger la version Recherche de _Foster Forest_
+# Recherche / Télécharger la version Recherche de _Foster Forest_
 
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points.
 
