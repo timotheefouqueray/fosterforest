@@ -5,7 +5,7 @@
 Au total, neuf sessions de l’atelier *Foster Forest* ont eu lieu entre début mai et fin juillet 2019. Elles ont eu lieu dans les massifs forestiers indiqués sur la carte ci-après (deux parties ont eu lieu dans les Pyrénées).
 
 
-![Foster-Forest_Retours_Carte](https://timotheefouqueray.github.io/fosterforest/recherche/Foster-Forest_Retours_Carte.png)
+![Foster-Forest_Carte](https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Retours_Carte.png)
 
 Chaque partie a présenté des spécificités, qui ont fortement dépendu des participants. Toutefois, des grandes tendances ont pu se détacher de l’ensemble des sessions jouées, et de leur comparaison.
 
@@ -20,8 +20,28 @@ Le jeu était néanmoins conçu pour facilement atteindre un équilibre sylvo-cy
 Au-delà de la confirmation de ces résultats, les sessions *Foster Forest* ont apporté de nouveaux éclairages sur l’adaptation aux changements climatiques en forêt française. Même si elles étaient rares, des adaptations non-techniques ont été proposées. En particulier, les contrats de conservation d’îlots de sénescence ont été vus comme un moyen de diversifier les sources de revenus. Le but était ainsi de moins dépendre de la production de bois, fortement dépendante d’aléas climatiques. Dans la même lignée, et dans quatre sessions de jeu, des contrats pour le stockage du carbone ont été créés. Ils étaient fondés sur des obligations de moyens (souvent des itinéraires sylvicoles préservant le sol et comprenant des clauses biodiversité), et non pas de résultats, afin de tenir compte des incertitudes du scénario climatique. Cette innovation a principalement émané des joueurs ayant un rôle « non-forestier » (élus et gestionnaires d’espaces naturels), dont la mission de maintien de la qualité de l’eau ou de création d’un réseau écologique impliquait une vision à de grandes échelles spatiales.
 
 
-* * *
+***
 
-### [_Foster Forest_, un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/objectif-results)
+## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
+Articles scientifiques, compléments à lire et à visionner.
+### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
+Pour en savoir plus sur l'équipe à l'origine de _Foster Forest_.
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
 
-### [Téléchargement de la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
+***
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
+### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
+### *[Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)*
+
+***
+## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
+### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
+### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+
+***
+## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
+
+***
+## [English](https://liberation.fr)
