@@ -15,7 +15,7 @@ Pour en savoir plus sur l'équipe à l'origine de _Foster Forest_.
 _Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
 
 ***
-## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche-accueil)
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
 ### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
 
