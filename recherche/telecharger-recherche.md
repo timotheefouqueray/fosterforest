@@ -3,7 +3,7 @@
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points.
 
 
-[Télécharger le logiciel de la version recherche](https://www.liberation.fr). _Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à [cette adresse](http://cormas.cirad.fr).
+[Télécharger le logiciel de la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/FosterForest_Research.zip). _Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à [cette adresse](http://cormas.cirad.fr).
 
 
 
