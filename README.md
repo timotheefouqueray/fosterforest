@@ -4,6 +4,10 @@
 
 Cet atelier d'une demi-journée permet à des forestiers publics, des propriétaires privés, des experts forestiers et des gestionnaires d'espaces naturels de tester ou d'imaginer des modes d'adaptations aux dérèglements climatiques en forêt française.
 
+
+*Atelier "Recherche" mené à l'été 2019*
+![Image_floutee](https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Salle.jpg)
+
 ***
 
 ## *[Accueil](https://timotheefouqueray.github.io/fosterforest/README)*
