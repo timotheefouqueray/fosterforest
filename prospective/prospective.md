@@ -37,7 +37,7 @@ Pour des équipes pédagogiques souhaitant renforcer leurs formations. Pré-requ
 
 Comme pour la version recherche, la version prospective de _Foster Forest_ combine un logiciel et des livrets de jeu.
 
-Pour y accéder et en savoir plus, consulter la page dédiée des [téléchargements]((https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)) et celle des [tutoriels](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels) explicant l'utilisation du logiciel et des livrets de jeu.
+Pour y accéder et en savoir plus, consulter la page dédiée des [téléchargements](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective) et celle des [tutoriels](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels) explicant l'utilisation du logiciel et des livrets de jeu.
 
 ## Quelles différences avec la version Recherche ?
 
