@@ -66,5 +66,5 @@ Cette nouvelle version se veut plus ergonomique (32 parcelles à gérer et non p
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
 
