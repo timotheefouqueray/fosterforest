@@ -50,4 +50,4 @@ Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaire
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
