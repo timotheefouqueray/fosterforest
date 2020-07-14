@@ -31,4 +31,4 @@
 ## *[Contact](https://timotheefouqueray.github.io/fosterforest/contact)*
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
