@@ -34,4 +34,4 @@ _Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
