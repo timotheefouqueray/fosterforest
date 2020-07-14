@@ -34,4 +34,4 @@ _Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles 
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://timotheefouqueray.github.io/fosterforest/home-eng)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
