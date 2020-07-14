@@ -11,8 +11,8 @@ You can also read the scientific article depicting the situation of [adaptation 
 ### More readings
 
 _Foster Forest_ is in line with similar simulations :
-* _On the management of forest, but in tropcial regions_, [MineSet](https://fordev.ethz.ch/research/our-games/coforset-game.html), a game of ForDev team on the fight againt deforestation in the Congo basin
-* _On adaptation to climate change more broadly_, [Game4Sustainability](https://games4sustainability.org/) platform identifies above a hundred games and simulations on climate change.
+* _On the management of forest, but in tropical regions_, [MineSet](https://fordev.ethz.ch/research/our-games/coforset-game.html), a game of ForDev team on the fight againt deforestation in the Congo basin
+* _More broadly on adaptation to climate change_, [Game4Sustainability](https://games4sustainability.org/) platform identifies above a hundred games and simulations on climate change.
 
 ***
 
