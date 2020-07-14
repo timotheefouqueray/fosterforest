@@ -1,6 +1,6 @@
 # Research / Download the research version
 
-Find on this page the research version of _Foster Forest_, as used in 2019 by Timothée Fouqueray for its doctoral studies. It combines two elements: a software and game leaflets. It differs from the 'Prospective' version in several points.
+Find on this page the research version of _Foster Forest_, as used in 2019 by Timothée Fouqueray for its doctoral studies. It combines two elements: a software and game leaflets.
 
 
 [Download the 'Research' version](https://timotheefouqueray.github.io/fosterforest/recherche/FosterForest_Research.zip). _Foster Forest_ runs with CORMAS, a free software freely accessible on [this webpage](http://cormas.cirad.fr).
