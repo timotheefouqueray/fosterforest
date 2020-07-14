@@ -16,8 +16,8 @@ _Foster Forest_ is in line with similar simulations :
 
 ***
 
-## *[Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)*
-### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
+## [Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
+### *[Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)*
 ### [The team](https://timotheefouqueray.github.io/fosterforest/english/equipe-eng)
 ### [Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)
 _Foster Forest_ is free to use, open-access, but some citation rules are to be respected.
