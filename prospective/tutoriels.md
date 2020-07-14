@@ -37,4 +37,4 @@ Le livret d'animation, disponible sur [la page des téléchargements](https://ti
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
