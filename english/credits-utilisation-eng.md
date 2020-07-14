@@ -2,7 +2,7 @@
 
 ## Intellectual property
 
-_Foster Forest_ is licensed under XXX. Its use and broadcast are free and open-access, but the following conditions must be respected.
+_Foster Forest_ is licensed under XXX. Its use and broadcast are free and open-access, but the following conditions must be accounted for.
 
 ## Scientific posture
 
