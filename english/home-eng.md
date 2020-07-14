@@ -8,7 +8,11 @@ A _Foster Forest_ workshop gathers managers of public and private forests, along
 
 *'Research' workskop - Summer 2019*
 
-![Image_floutee](https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Salle.jpg)
+A: User's leaflet
+B: Recording device
+C: Screen displayed on the wall
+
+![Image_floutee](https://timotheefouqueray.github.io/fosterforest/images/Foster_Forest_Set-up_Flou.jpg)
 
 ***
 
