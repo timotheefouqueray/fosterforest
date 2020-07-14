@@ -25,4 +25,4 @@ _Foster Forest_ consiste en un atelier d’une demi-journée, réunissant des pr
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
-## [English](https://liberation.fr)
+## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
