@@ -48,4 +48,4 @@ _Foster Forest_ is free to use, open-access, but some citation rules are to be r
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact-eng)
 
 ***
-## [French](https://timotheefouqueray.github.io/fosterforest/README)
+## [French](https://timotheefouqueray.github.io/fosterforest/)
