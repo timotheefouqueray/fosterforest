@@ -3,7 +3,7 @@
 La version de _Foster Forest_ disponible sur cette page est la version Prospective. Elle combine deux éléments : un logiciel et des livrets de jeu.
 
 
-[Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterFoster_Prospective.zip)
+[Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip)
  
  
 _Foster Forest_ fonctionne grâce au logiciel CORMAS, disponible gratuitement à [cette adresse](http://cormas.cirad.fr).
