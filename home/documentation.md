@@ -13,6 +13,9 @@ Vous pouvez aussi [consulter l'article scientifique contextualisant l'adaptation
 Des initiatives similaires à _Foster Forest_ existent :
 * _Sur la gestion forestière en milieux tropicaux_, [MineSet](https://fordev.ethz.ch/research/our-games/coforset-game.html), un jeu de l'équipe ForDev sur la lutte contre la déforestation dans le bassin du Congo
 * _Sur l'adaptation aux changements climatiques_, la plateforme [Game4Sustainability](https://games4sustainability.org/) recense plus d'une centaine de jeux et de simulations relatives aux dérèglements climatiques.
+* _Sur la plateforme CORMAS, le logiciel derrière Foster Forest_, voir [cette adresse](http://cormas.cirad.fr).
+* _Sur la modélisation d'accompagnement_, la méthodologie de laquelle _Foster Forest_ est inspirée, voir [sur le site ComMod](https://www.commod.org/).
+
 
 ***
 
