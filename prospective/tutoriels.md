@@ -1,15 +1,10 @@
-# Prospective / Tutoriels d'utilisation du logiciel et des livrets de jeu de la version Prospective
-
-[Installer le logiciel _Foster Forest_ avec Cormas](https://www.liberation.fr)
+# Prospective / Tutoriels d'utilisation du logiciel et livrets de jeu de la version Prospective
 
 [Utiliser le logiciel _Foster Forest_ avec Cormas](https://www.liberation.fr)
 
-[Trucs et astuces informatiques](https://www.liberation.fr)
+Les 5 livrets de jeu et le livret d'animation sont accessibles gratuitement. Pour y accéder, merci de les demander en utilisant [la page "Contact"](https://timotheefouqueray.github.io/fosterforest/contact), en indiquant dans votre message le contexte précis de l'utilisation que vous souhaitez faire de _Foster Forest_.
 
-
-## Suggestions d'animation à l'aide des livrets de jeu de la version Prospective
-
-Le livret d'animation, disponible sur [la page des téléchargements](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective), comprend :
+Le livret d'animation comprend :
 - des explications pour l'installation de la salle
 - le texte du brief introductif
 - le texte du point nécessaire entre les tours de jeu
