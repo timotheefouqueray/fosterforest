@@ -3,9 +3,9 @@
 La version de _Foster Forest_ disponible sur cette page est la version Prospective. Elle combine deux éléments : un logiciel et des livrets de jeu.
 
 
-[Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip) 
+- [Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip) 
  
-[Télécharger les livrets de jeu de la version prospective.]((https://timotheefouqueray.github.io/fosterforest/prospective/FosterFoster_Prospective-Livrets.zip))
+- [Télécharger les livrets de jeu de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterFoster_Prospective-Livrets.zip)
  
  
 ***
