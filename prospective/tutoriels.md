@@ -1,6 +1,6 @@
 # Prospective / Tutoriels d'utilisation du logiciel et livrets de jeu de la version Prospective
 
-[Utiliser le logiciel _Foster Forest_ avec Cormas](https://youtu.be/qcaCzB8dMss)
+Utiliser le logiciel _Foster Forest_ avec Cormas - [Tutoriel disponible sur YouTube.](https://youtu.be/qcaCzB8dMss)
 
 Les 5 livrets de jeu et le livret d'animation sont accessibles gratuitement. Pour y accéder, merci de les demander en utilisant [la page "Contact"](https://timotheefouqueray.github.io/fosterforest/contact), en indiquant dans votre message le contexte précis de l'utilisation que vous souhaitez faire de _Foster Forest_.
 
