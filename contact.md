@@ -8,7 +8,7 @@
     <input type="text" name="_replyto">
   </label>
   <label>
-    Message/Nachricht:
+    Message:
     <textarea name="message"></textarea>
   </label>
   <button type="submit">Envoyer</button>
