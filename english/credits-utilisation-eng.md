@@ -2,7 +2,7 @@
 
 ## Intellectual property
 
-_Foster Forest_ is licensed under XXX. Its use and broadcast are free and open-access, but the following conditions must be accounted for.
+_Foster Forest_ is protected by license IDDN.FR.001.350008.000.S.P.2020.000.30200 (French Agency of Program Protection). Its use and broadcast are free and open-access, but **the following conditions must be accounted for**.
 
 ## Scientific posture
 
