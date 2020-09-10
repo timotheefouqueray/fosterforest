@@ -14,6 +14,8 @@ Find on this page the research version of _Foster Forest_, as used in 2019 by Ti
 
 Along with the instructions for the game-master, video tutorials explain the installation of CORMAS and then _Foster Forest_. Even if tailored for the 'Prospective' version, the tutorials provide the necessary elements to launch the 'Research' version.
 
+[Access here the tutos (in French).] (https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be)
+
 
 ## Differences between the 'Research' & 'Prospective' versions
 
