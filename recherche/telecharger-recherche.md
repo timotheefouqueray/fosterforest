@@ -12,7 +12,7 @@ La version de _Foster Forest_ disponible sur cette page est la version Recherche
 
 ## Utiliser la version recherche
 
-En plus du livret du maître du jeu, téléchargeable ci-dessus, des tutoriels vidéo expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. [Ces tutoriels, relatifs à la version Prospective] (https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be), apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
+En plus du livret du maître du jeu, téléchargeable ci-dessus, des tutoriels vidéo expliquent l'installation et le lancement de Cormas et du logiciel _Foster Forest_. [Ces tutoriels, relatifs à la version Prospective](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be), apportent toutefois les informations nécessaires pour le lancement de la version Recherche.
 
 
 ## Différences versions Recherche & Prospective
