@@ -2,6 +2,8 @@
 
 Utiliser le logiciel _Foster Forest_ avec Cormas - [Tutoriel disponible sur YouTube.](https://youtu.be/qcaCzB8dMss)
 
+*Pour rappel* 
+
 Les 5 livrets de jeu et le livret d'animation sont accessibles gratuitement. Pour y accéder, merci de les demander en utilisant [la page "Contact"](https://timotheefouqueray.github.io/fosterforest/contact), en indiquant dans votre message le contexte précis de l'utilisation que vous souhaitez faire de _Foster Forest_.
 
 Le livret d'animation comprend :
