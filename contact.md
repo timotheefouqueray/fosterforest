@@ -1,3 +1,7 @@
+Vous pouvez m'écrire en français.
+You can write in English.
+Sie können mir auf Deutsch schreiben.
+
 <form action="https://formspree.io/xzbjrzbr" method="POST">
   <label>
     Votre email:
