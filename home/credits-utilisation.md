@@ -2,7 +2,7 @@
 
 ## Propriété intellectuelle
 
-_Foster Forest_ est protégé par XXX. Par conséquent, son utilisation et sa diffusion sont gratuites et libres de droits, sous réserve de prendre reconnaissance des points ci-dessous.
+_Foster Forest_ est protégé par le certificat IDDN.FR.001.350008.000.S.P.2020.000.30200 de l'Agence de Protection des Programmes. Son utilisation et sa diffusion sont gratuites et libres de droits **sous réserve de prendre reconnaissance des points ci-dessous**.
 
 ## Posture de l'équipe de conception
 
