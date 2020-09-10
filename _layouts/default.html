@@ -23,7 +23,7 @@
     <header class="page-header"  
         role="banner">
       <h1 class="project-name">Foster Forest</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: www.fosterforest.fr }}</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.home }}" class="btn">Accueil</a>
         <a href="{{ site.github.research }}" class="btn">Un outil de recherche</a>
