@@ -8,11 +8,10 @@ La version de _Foster Forest_ disponible sur cette page est la version Prospecti
 - Les 5 livrets de jeu et le livret d’animation sont accessibles gratuitement. Pour y accéder, merci de les demander en utilisant la page “Contact”, en indiquant dans votre message le contexte précis de l’utilisation que vous souhaitez faire de Foster Forest.
 
 Le livret d’animation comprend :
-
-    des explications pour l’installation de la salle
-    le texte du brief introductif
-    le texte du point nécessaire entre les tours de jeu
-    une proposition de débrief collectif.
+- des explications pour l’installation de la salle
+- le texte du brief introductif
+- le texte du point nécessaire entre les tours de jeu
+- une proposition de débrief collectif.
 
  
  
