@@ -4,11 +4,11 @@
 
 <form action="https://formspree.io/xzbjrzbr" method="POST">
   <label>
-    Votre email:
+    Email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Message:
+    Message/Nachricht:
     <textarea name="message"></textarea>
   </label>
   <button type="submit">Envoyer</button>
