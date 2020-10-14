@@ -1,5 +1,13 @@
 # Prospective / Télécharger la version Prospective de _Foster Forest_
 
+***
+## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
+### *[Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)*
+### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+***
+
+
 La version de _Foster Forest_ disponible sur cette page est la version Prospective. Elle combine deux éléments : un logiciel et des livrets de jeu.
 
 ## Logiciel 
@@ -17,10 +25,3 @@ Le livret d’animation comprend :
 - le texte du brief introductif
 - le texte du point nécessaire entre les tours de jeu
 - une proposition de débrief collectif.
-
-
-***
-## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
-### *[Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)*
-### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
-### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
