@@ -1,9 +1,9 @@
 # Recherche / S(t)imuler l'adaptation des forestiers aux changements climatiques
 
 ***
-## *[Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)*
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
 ### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
-### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+### *[Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)*
 ### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
 ***
 
