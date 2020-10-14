@@ -15,7 +15,8 @@
 
 - Comment fonctionne la certification PFSC ?
 > Dans le jeu, chaque participant peut, à sa convenance, faire certifier sa propriété sous le label PFSC (label fictif inventé pour l'occasion), à un coût proportionnel au nombre de ses parcelles. Il n'est pas possible de faire certifier ses parcelles à l'unité : c'est toute la propriété ou rien. Cette certification court le temps d'un tour de jeu, et n'est pas renouvelée automatiquement. À chaque début de tour, les joueurs doivent donc relancer la certification s'ils la souhaitent. NB : si, par erreur de manipulation, vous demandez à nouveau la certification d'une propriété déjà sous PFSC, la propriété restera bien certifiée sans que les coûts d'adhésion soient à nouveau décomptés.
-> ! Les forêts domaniales sont automatiquements certifiées PFSC, et les coûts d'adhésion sont automatiquement retranchés de la trésorerie domaniale. Le logiciel reconduit automatiquement la certification des parcelles domaniales en début de tour.
+
+> Les forêts domaniales sont automatiquements certifiées PFSC, et les coûts d'adhésion sont automatiquement retranchés de la trésorerie domaniale. Le logiciel reconduit automatiquement la certification des parcelles domaniales en début de tour.
 
 ### Animation d'un atelier
 
