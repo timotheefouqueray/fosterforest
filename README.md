@@ -6,7 +6,6 @@
   <img src="https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Salle.jpg" width="500" />
 </p>
 
-***
 
 <p align="center">
   <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_Logo_medium.jpg" width="400" />
