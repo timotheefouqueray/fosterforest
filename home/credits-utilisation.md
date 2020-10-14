@@ -1,11 +1,10 @@
-# Accueil / Crédits et conditions d'utilisation
+# Crédits et conditions d'utilisation
 
 ***
 ## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
 ### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
 ### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
 ### *[Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)*
-_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
 ***
 
 ## Propriété intellectuelle
