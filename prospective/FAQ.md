@@ -33,3 +33,11 @@ Dans le cas où un joueur voudra régénérer naturellement avec une essence-obj
 - Que faire pendant les temps morts ?
 
 > En tant que maître du jeu, il vous arrivera fréquemment de prendre du temps avec un.e participant.e pour entrer ses actions dans l'ordinateur, ou bien expliquer plus en détails une notion forestière, etc... Ce qui peut alors sembler un "temps mort" pour les autres participant.e.s est en fait un moment précieux pour qu'ils prennent du recul et apprécient la situation, reviennent sur une idée, proposent une innovation, ou se tournent vers leurs partenaires de jeu. Pas besoin de combler à tout prix !
+
+- Un.e participant.e vient me voir pour me poser une question... Dois-je donner la réponse à cette seule personne, ou bien la dire au groupe entier ?
+
+> C'est ici une question de "feeling", qui dépend de la posture et de l'expérience d'animation du maître du jeu. À titre personnel, si un.e joueur.euse vient me voir pour une question spécifique, je lui réponds personnellement si c'est "stratégique" (ex : ai-je le droit d'acheter plutôt ici ou là ? puis-je établir une convention de paiement pour carbone avec le maire ? ...), ou alors je partage aux restes des joueurs si la question porte sur du fonctionnement (ex : quand aurons-nous le retour sur la trésorerie ? Peut-on être dans le rouge financièrement (oui ils peuvent) ?) En tous les cas, il apparaît pertinent de renvoyer la personne à un.e participant.e qui serait compétent.e pour répondre, afin d'intervenir le moins possible dans les interactions entre joueurs.
+
+- Mais en fait, les actions choisies par les joueurs sont entrées dans l'ordinateur au vu et au su de tous les participants ?
+
+> Oui ! Il est difficile, en forêt, de cacher les opérations de coupes, éclaircies, plantations que l'on mène.
