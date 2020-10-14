@@ -15,8 +15,10 @@
 
 - Comment fonctionne la certification PFSC ?
 > Dans le jeu, chaque participant peut, à sa convenance, faire certifier sa propriété sous le label PFSC (label fictif inventé pour l'occasion), à un coût proportionnel au nombre de ses parcelles. Il n'est pas possible de faire certifier ses parcelles à l'unité : c'est toute la propriété ou rien. Cette certification court le temps d'un tour de jeu, et n'est pas renouvelée automatiquement. À chaque début de tour, les joueurs doivent donc relancer la certification s'ils la souhaitent. NB : si, par erreur de manipulation, vous demandez à nouveau la certification d'une propriété déjà sous PFSC, la propriété restera bien certifiée sans que les coûts d'adhésion soient à nouveau décomptés.
+Les forêts domaniales sont automatiquements certifiées PFSC, et les coûts d'adhésion sont automatiquement retranchés de la trésorerie domaniale. Le logiciel reconduit automatiquement la certification des parcelles domaniales en début de tour.
 
-> Les forêts domaniales sont automatiquements certifiées PFSC, et les coûts d'adhésion sont automatiquement retranchés de la trésorerie domaniale. Le logiciel reconduit automatiquement la certification des parcelles domaniales en début de tour.
+- Que se passe-t-il si un joueur ne respecte pas le classement en programme SénESSENCE ?
+> Prenons une parcelle classée SénESSENCE (affichée rose sur la carte du programme) : si son propriétaire/gestionnaire outrepasse son engagement à conserver des vieux arbres et décide de couper des arbres de diamètre 3 ou 4, alors un message d'avertissement s'affiche, demandant la confirmation de l'action. S'il décide tout de même de couper les arbres, alors une amende lui sera automatiquement prise sur sa trésorerie par le logiciel. Le montant de l'amende est celui de la subvention SénESSENCE que le joueur avait reçue.
 
 ### Animation d'un atelier
 
