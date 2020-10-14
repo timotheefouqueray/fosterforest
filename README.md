@@ -7,6 +7,7 @@ Cet atelier d'une demi-journée permet à des forestiers publics, des propriéta
 ***
 
 ![Image_floutee](https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Salle.jpg?s=2)
+<img src="https://timotheefouqueray.github.io/fosterforest/images/Foster-Forest_Salle.jpg" width="4">
 *Atelier "Recherche" mené à l'été 2019*
 
 ***
