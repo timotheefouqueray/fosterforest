@@ -16,14 +16,13 @@ Cet atelier d'une demi-journée permet à des forestiers publics, des propriéta
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
 ### [Documentation complémentaire](https://timotheefouqueray.github.io/fosterforest/recherche/documentation)
 ### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
-### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
-_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
 
 ***
 ## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
 ### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
 ### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
 ### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+Les versions Recherche et Prospective de _Foster Forest_ sont gratuites, en accès libre, mais répondent à certaines règles d'utilisation.
 
 ***
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
