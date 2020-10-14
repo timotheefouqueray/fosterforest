@@ -14,7 +14,7 @@ La version de _Foster Forest_ disponible sur cette page est la version Prospecti
 
 [Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip) 
 
-Un tutoriel explique l'utilisation du logiciel _Foster Forest_ avec Cormas. Il est [disponible sur YouTube.](https://youtu.be/qcaCzB8dMss)
+Un tutoriel explique l'utilisation du logiciel _Foster Forest_ avec Cormas. Il est [disponible sur YouTube.](https://youtu.be/qcaCzB8dMss) N'hésitez pas à aussi aller consulter la [liste des questions fréquentes.](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
  
 ## Livrets de jeu
 
