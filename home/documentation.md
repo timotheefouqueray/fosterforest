@@ -2,9 +2,9 @@
 
 ### Sur _Foster Forest_
 
-_Foster Forest_ a été créé dans le cadre durant le doctorat de Timothée Fouqueray (2016-2019). [Cliquez ici pour accéder à la thèse](https://hal.archives-ouvertes.fr/tel-02457016).
+_Foster Forest_ a été créé dans le cadre durant le doctorat de Timothée Fouqueray (2016-2019). [Cliquez ici pour accéder au manuscrit de la thèse](https://hal.archives-ouvertes.fr/tel-02457016).
 
-Le jeu a été présentée lors d'une visio-conférence du laboratoire Dynafor. La [captation vidéo est disponible sur YouTube](https://www.youtube.com/watch?v=1olLn3Z-c5I) (durée : 28 min).
+Le jeu a été présenté lors d'une visio-conférence du laboratoire Dynafor. La [captation vidéo est disponible sur YouTube](https://www.youtube.com/watch?v=1olLn3Z-c5I) (durée : 28 min).
 
 Vous pouvez aussi [consulter l'article scientifique contextualisant l'adaptation aux changements climatiques en France](https://www.sciencedirect.com/science/article/abs/pii/S0378112719320018) (en anglais).
 
@@ -19,7 +19,7 @@ Des initiatives similaires à _Foster Forest_ existent :
 
 ***
 
-## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+## [Accueil](https://timotheefouqueray.github.io/fosterforest/)
 ### *[Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)*
 Articles scientifiques, compléments à lire et à visionner.
 ### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
