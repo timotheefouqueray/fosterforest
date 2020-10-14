@@ -14,6 +14,10 @@
 
 > *Foster Forest* ne permet pas, en son état actuel, d'annuler une action une fois confirmée. Toutefois, dès qu'il est possible de le faire, une fenêtre demandant confirmation de l'action permet de bien s'assurer du choix retenu. Ex : confirmation de la vente d'une parcelle, confirmation d'une coupe sélective, etc.
 
+- Comment afficher à l'écran des informations propres à chaque joueur ?
+
+> Il est possible de montrer, en temps réel, la trésorerie des joueurs. Pour cela, sélectionner l'outil "Main" dans la fenêtre principale (carte). Un clic droit sur l'avatar du joueur (personnage noir à l'écran) permet de sélectionner l'action "Voir trésorerie".
+
 - Comment fonctionne la certification PFSC ?
 
 > Dans le jeu, chaque participant peut, à sa convenance, faire certifier sa propriété sous le label PFSC (label fictif inventé pour l'occasion), à un coût proportionnel au nombre de ses parcelles. Il n'est pas possible de faire certifier ses parcelles à l'unité : c'est toute la propriété ou rien. Cette certification court le temps d'un tour de jeu, et n'est pas renouvelée automatiquement. À chaque début de tour, les joueurs doivent donc relancer la certification s'ils la souhaitent. NB : si, par erreur de manipulation, vous demandez à nouveau la certification d'une propriété déjà sous PFSC, la propriété restera bien certifiée sans que les coûts d'adhésion soient à nouveau décomptés.
