@@ -30,7 +30,6 @@ _Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles 
 ### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
 ### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
 ### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
-_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
 
 ***
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
