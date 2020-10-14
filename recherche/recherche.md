@@ -4,7 +4,7 @@
 ## *[Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)*
 ### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
-### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+### [Documentation complémentaire](https://timotheefouqueray.github.io/fosterforest/recherche/documentation)
 ***
 
 _Foster Forest_ est un jeu sérieux créé pour simuler et stimuler l’adaptation aux changements climatiques des forestiers, et plus particulièrement des adaptations non-techniques (ex : économiques, organisationnelles). 
