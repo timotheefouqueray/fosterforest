@@ -1,5 +1,13 @@
 # Recherche / Télécharger la version Recherche de _Foster Forest_
 
+
+***
+## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
+### *[Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)*
+### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
+### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
+***
+
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points.
 
 
@@ -26,28 +34,3 @@ La version Recherche se distingue de la version [Prospective](https://timotheefo
 Par ailleurs, les ateliers de la version Recherche incluaient deux questionnaires relatifs aux connaissances des participants en sciences forestières, changement climatique et expérience de jeu (un questionnaire avant et un après la simulation à proprement parler).
 
 ![Déroulé](https://timotheefouqueray.github.io/fosterforest/recherche/déroulé_atelier_recherche.jpg)
-
-
-
-***
-
-## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
-### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
-### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
-### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
-
-***
-## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
-### *[Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)*
-### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
-
-***
-## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
-### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
-### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
-
-***
-## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
-
-***
-## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
