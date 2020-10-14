@@ -1,5 +1,13 @@
 # Accueil / Crédits et conditions d'utilisation
 
+***
+## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
+### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
+### [Questions fréquentes](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
+### *[Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)*
+_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
+***
+
 ## Propriété intellectuelle
 
 _Foster Forest_ est protégé par le certificat IDDN.FR.001.350008.000.S.P.2020.000.30200 de l'Agence de Protection des Programmes. Son utilisation et sa diffusion sont gratuites et libres de droits **sous réserve de prendre reconnaissance des points ci-dessous**.
@@ -22,31 +30,3 @@ En mettant en place un atelier _Foster Forest_, tout.e futur.e maître.sse du je
 2. La tenue d'un atelier nécessite d'en expliciter l'objectif aux participants invités, en leur proposant un renvoi vers ce site pour disposer de plus d'informations.
 
 3. Ni l'équipe de conception de _Foster Forest_, ni AgroParisTech, dépositaire de la propriété intellectuelle de _Foster Forest_, ne peuvent être tenus responsables du déroulement d'une partie. L'équipe de conception reste néanmoins disponible à toute demande de conseil concernant une éventuelle utilisation (voir le [formulaire de contact](https://timotheefouqueray.github.io/fosterforest/contact)).
-
-
-
-***
-
-## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
-### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
-Articles scientifiques, compléments à lire et à visionner.
-### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
-Pour en savoir plus sur l'équipe à l'origine de _Foster Forest_.
-### *[Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)*
-_Foster Forest_ est gratuit, en accès libre, mais répond à certaines règles d'utilisation.
-
-***
-## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
-### [Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)
-### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
-
-***
-## [Un outil de prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective)
-### [Télécharger la version prospective](https://timotheefouqueray.github.io/fosterforest/prospective/telecharger-prospective)
-### [Accéder aux tutoriels d'utilisation](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
-
-***
-## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
-
-***
-## [English](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
