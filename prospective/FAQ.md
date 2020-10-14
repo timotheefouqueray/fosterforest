@@ -31,4 +31,5 @@ Dans le cas où un joueur voudra régénérer naturellement avec une essence-obj
 ### Animation d'un atelier
 
 - Que faire pendant les temps morts ?
+
 > En tant que maître du jeu, il vous arrivera fréquemment de prendre du temps avec un.e participant.e pour entrer ses actions dans l'ordinateur, ou bien expliquer plus en détails une notion forestière, etc... Ce qui peut alors sembler un "temps mort" pour les autres participant.e.s est en fait un moment précieux pour qu'ils prennent du recul et apprécient la situation, reviennent sur une idée, proposent une innovation, ou se tournent vers leurs partenaires de jeu. Pas besoin de combler à tout prix !
