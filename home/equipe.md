@@ -16,7 +16,7 @@ Docteure en géographie, elle a renforcé l'équipe durant les dix premières pa
 
 ***
 
-## [Accueil](https://timotheefouqueray.github.io/fosterforest/README)
+## [Accueil](https://timotheefouqueray.github.io/fosterforest)
 ### [Documentation](https://timotheefouqueray.github.io/fosterforest/home/documentation)
 Articles scientifiques, compléments à lire et à visionner.
 ### *[L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)*
