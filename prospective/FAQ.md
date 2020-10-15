@@ -45,3 +45,7 @@ Dans le cas où un joueur voudra régénérer naturellement avec une essence-obj
 - Mais en fait, les actions choisies par les joueurs sont entrées dans l'ordinateur au vu et au su de tous les participants ?
 
 > Oui ! Il est difficile, en forêt, de cacher les opérations de coupes, éclaircies, plantations que l'on mène.
+
+- Qui doit s'occuper de classer les parcelles dans le programme SénESSENCE ?
+
+> Le classement en SénESSENCE est la prérogative du gestionnaire d'espaces naturels protégés. Sous ses directives, le maître du jeu entre l'action de classement dans l'ordinateur.
