@@ -4,7 +4,7 @@
 ## [Back to main menu](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
 ## *[Prospective](https://timotheefouqueray.github.io/fosterforest/english/prospective-eng)*
 ### [Download - 'Prospective' version](https://timotheefouqueray.github.io/fosterforest/english/telecharger-prospective-eng)
-### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
 ***
 
 A research tool, _Foster Forest_ also exists in an alternate, 'Prospective' version.
