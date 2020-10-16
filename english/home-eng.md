@@ -19,12 +19,11 @@ C: Screen displayed on the wall
 ## *[Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)*
 ### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
 ### [The team](https://timotheefouqueray.github.io/fosterforest/english/equipe-eng)
-### [Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)
-_Foster Forest_ is free to use, open-access, but some citation rules are to be respected.
 
 ***
 ## [A research tool](https://timotheefouqueray.github.io/fosterforest/english/recherche-eng)
-### [Download – Research version](https://timotheefouqueray.github.io/fosterforest/english/telecharger-recherche-eng)
+### [Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)
+_Foster Forest_ is free to use, open-access, but some citation rules are to be respected.
 
 ***
 ## [Prospective](https://timotheefouqueray.github.io/fosterforest/english/prospective-eng)
