@@ -26,7 +26,7 @@ Along with the instructions for the game-master, video tutorials explain the ins
 
 ## Differences between the 'Research' & 'Prospective' versions
 
-The 'Research' version differs from the [Prospective](https://timotheefouqueray.github.io/fosterforest/prospective/prospective) version:
+The 'Research' version differs from the [Prospective](https://timotheefouqueray.github.io/fosterforest/english/prospective-eng) version:
 - it has 50 plots, instead of the 32 plots of the 'Prospective' version
 - it includes the management of hunting game
 - its visual interface is less intuitive in the implementation of players' decisions
