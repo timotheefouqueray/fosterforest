@@ -28,7 +28,7 @@ To set a _Foster Forest_ workshop, game facilitators must understand that:
 
 2. Organizing a workshop induces a clear explanation of the objectives of the participatory simulations to the participants, and informing them of the existence of this website.
 
-3. Neither _Foster Forest_ team nor AgroParisTech can be taken for responsible of what happens during a workshop. Yet, the team stays at your disposal for further questions on the use of _Foster Forest_ (see the [Contact page](https://timotheefouqueray.github.io/fosterforest/english/contact-eng)).
+3. Neither _Foster Forest_ team nor AgroParisTech can be taken for responsible of what happens during a workshop. Yet, the team stays at your disposal for further questions on the use of _Foster Forest_ (see the [Contact page](https://timotheefouqueray.github.io/fosterforest/contact)).
 
 ## Financial support
 
