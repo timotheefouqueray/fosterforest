@@ -6,6 +6,7 @@
 ### *[Télécharger la version recherche](https://timotheefouqueray.github.io/fosterforest/recherche/telecharger-recherche)*
 ### [Résultats des parties "Recherche" jouées en 2019](https://timotheefouqueray.github.io/fosterforest/recherche/results-quelques-mots)
 ### [Documentation complémentaire](https://timotheefouqueray.github.io/fosterforest/recherche/documentation)
+### [L'équipe](https://timotheefouqueray.github.io/fosterforest/home/equipe)
 ***
 
 La version de _Foster Forest_ disponible sur cette page est la version Recherche, utilisée en 2019 dans le cadre du doctorat de Timothée Fouqueray. Elle combine deux éléments : un logiciel et des livrets de jeu. Elle diffère de la version Prospective en plusieurs points. Son utilisation doit être créditée et respecter certaines [conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation).
