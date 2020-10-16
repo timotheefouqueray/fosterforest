@@ -8,6 +8,8 @@
 ### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
 ***
 
+Un tutoriel vidéo [disponible sur YouTube](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be) répond à la plupart des questions relatives à l'installation et à l'utilisation de _Foster Forest_.
+
 ### Fonctionnement du logiciel
 
 - Est-il possible d'annuler une action ?
