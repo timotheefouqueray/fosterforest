@@ -14,7 +14,7 @@ This page presents _Foster Forest_'s 'Prospective' version. It combines two elem
 
 [Download the 'Prospective' version (in French).](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip) 
 
-A tutorial explains how to install and use _Foster Forest_ software with Cormas. It is [available on YouTube.](https://youtu.be/qcaCzB8dMss). Feel free to read the [Frequently Asked Questions page](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ) (also in French...).
+A tutorial explains how to install and use _Foster Forest_ software with Cormas. It is [available on YouTube.](https://youtu.be/qcaCzB8dMss). Feel free to read the [Frequently Asked Questions page](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ) (also in French...)
  
 ## Booklets
 
