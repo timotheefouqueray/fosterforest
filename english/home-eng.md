@@ -31,7 +31,7 @@ _Foster Forest_ is free to use, open-access, but some citation rules are to be r
 ### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
 
 ***
-## [Contact](https://timotheefouqueray.github.io/fosterforest/english/contact-eng)
+## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
 
 ***
 ## [French](https://timotheefouqueray.github.io/fosterforest/)
