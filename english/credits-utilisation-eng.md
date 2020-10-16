@@ -1,9 +1,8 @@
 # Home /  Credits & usage conditions
 
 ***
-## [Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
-### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
-### [The team](https://timotheefouqueray.github.io/fosterforest/english/equipe-eng)
+## [Back to main menu](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
+## [A research tool](https://timotheefouqueray.github.io/fosterforest/recherche/recherche-eng)
 ### *[Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)*
 ***
 
