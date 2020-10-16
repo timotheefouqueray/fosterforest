@@ -79,3 +79,7 @@ Dans le cas où un joueur voudra régénérer naturellement avec une essence-obj
 - Qui doit s'occuper de classer les parcelles dans le programme SénESSENCE ?
 
 > Le classement en SénESSENCE est la prérogative du gestionnaire d'espaces naturels protégés. Sous ses directives, le maître du jeu entre l'action de classement dans l'ordinateur.
+
+- Comment gérer les grands groupes ?
+
+> _Foster Forest_ a été conçu pour fonctionner en petits groupes. Plusieurs possibilités existent si jamais deviez animer des ateliers de plus de cinq personnes : attribuer chaque rôle à un binôme (prenez garde, alors, à bien garder du temps de débrief car cela rallongera la partie), dédoubler l'atelier pour en mener deux en parallèle (prévoir deux salles, deux animateurs, etc.), etc. Dans la mesure du possible, le plus simple reste toutefois de limiter les effectifs.
