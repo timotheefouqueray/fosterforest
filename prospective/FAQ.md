@@ -8,7 +8,14 @@
 ### [Crédits & conditions d'utilisation](https://timotheefouqueray.github.io/fosterforest/home/credits-utilisation)
 ***
 
-Un tutoriel vidéo [disponible sur YouTube](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be) répond à la plupart des questions relatives à l'installation et à l'utilisation de _Foster Forest_.
+### Par où commencer ?
+
+1. Deux vidéos peuvent vous mettre le pied à l'étrier :
+- La présentation générale de _Foster Forest_, [disponible sur YouTube](https://www.youtube.com/watch?v=1olLn3Z-c5I) (durée 28 min)
+- Un tutoriel vidéo [lui aussi disponible sur YouTube](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be). Il répond à la plupart des questions relatives à l'installation et à l'utilisation de _Foster Forest_.
+2. La lecture des livrets de l'animateur et des joueurs vous permettra de vous familiariser avec le déroulement du jeu et son animation. Elle va de pair avec la manipulation du logiciel.
+3. La lecture des questions fréquentes vous aidera à compléter votre préparation.
+4. S'il vous reste des interrogations, ou que vous rencontrez des problèmes, alors vous pourrez utiliser la [page Contact](https://timotheefouqueray.github.io/fosterforest/contact) !
 
 ### Utilisation du logiciel
 
