@@ -3,6 +3,7 @@
 ***
 ## [Back to main menu](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
 ## *[A research tool](https://timotheefouqueray.github.io/fosterforest/recherche/recherche-eng)*
+### [Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)
 ***
 
 _Foster Forest_ is a serious game created to simulate and stimulate the adaptation of French foresters to climate change. It particularly aims at the exploration of non-technical solutions (economic, organisational, ...). 
