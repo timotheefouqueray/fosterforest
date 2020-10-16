@@ -2,7 +2,7 @@
 
 ***
 ## [Home](https://timotheefouqueray.github.io/fosterforest/home-eng)
-### [Publications](https://timotheefouqueray.github.io/fosterforest/home/documentation-eng)
+### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
 ### *[The team](https://timotheefouqueray.github.io/fosterforest/home/equipe-eng)*
 ***
 
