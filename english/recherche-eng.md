@@ -1,7 +1,7 @@
 # Research
 
 ***
-## [Back to main menu](https://timotheefouqueray.github.io/fosterforest/english/home-eng)*
+## [Back to main menu](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
 ## [*A research tool](https://timotheefouqueray.github.io/fosterforest/recherche/recherche-eng)*
 ***
 
