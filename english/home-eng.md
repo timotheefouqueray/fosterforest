@@ -28,7 +28,7 @@ _Foster Forest_ is free to use, open-access, but some citation rules are to be r
 ***
 ## [Prospective](https://timotheefouqueray.github.io/fosterforest/english/prospective-eng)
 ### [Download -'Prospective' version](https://timotheefouqueray.github.io/fosterforest/english/telecharger-prospective-eng)
-### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
+### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
 
 ***
 ## [Contact](https://timotheefouqueray.github.io/fosterforest/contact)
