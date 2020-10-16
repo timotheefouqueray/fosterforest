@@ -26,4 +26,4 @@ En mettant en place un atelier _Foster Forest_, tout.e futur.e maître.sse du je
 
 ## Soutien financier
 
-_Foster Forest_ a fait l'objet d'un financement ANR via le LabEx BASC(ANR-11-LABX-0034).
+_Foster Forest_ a fait l'objet d'un financement ANR via le LabEx BASC (ANR-11-LABX-0034).
