@@ -1,5 +1,13 @@
 # Home /  Credits & usage conditions
 
+***
+## [Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
+### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
+### [The team](https://timotheefouqueray.github.io/fosterforest/english/equipe-eng)
+### *[Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)*
+***
+
+
 ## Intellectual property
 
 _Foster Forest_ is protected by license IDDN.FR.001.350008.000.S.P.2020.000.30200 (French Agency of Program Protection). Its use and broadcast are free and open-access, but **the following conditions must be accounted for**.
@@ -23,26 +31,6 @@ To set a _Foster Forest_ workshop, game facilitators must understand that:
 
 3. Neither _Foster Forest_ team nor AgroParisTech can be taken for responsible of what happens during a workshop. Yet, the team stays at your disposal for further questions on the use of _Foster Forest_ (see the [Contact page](https://timotheefouqueray.github.io/fosterforest/english/contact-eng)).
 
+## Financial support
 
-***
-
-## [Home](https://timotheefouqueray.github.io/fosterforest/english/home-eng)
-### [Publications](https://timotheefouqueray.github.io/fosterforest/english/documentation-eng)
-### [The team](https://timotheefouqueray.github.io/fosterforest/english/equipe-eng)
-### *[Credits & usage conditions](https://timotheefouqueray.github.io/fosterforest/english/credits-utilisation-eng)*
-_Foster Forest_ is free to use, open-access, but some citation rules are to be respected.
-
-***
-## [A research tool](https://timotheefouqueray.github.io/fosterforest/english/recherche-eng)
-### [Download – Research version](https://timotheefouqueray.github.io/fosterforest/english/telecharger-recherche-eng)
-
-***
-## [Prospective](https://timotheefouqueray.github.io/fosterforest/english/prospective-eng)
-### [Download -'Prospective' version](https://timotheefouqueray.github.io/fosterforest/english/telecharger-prospective-eng)
-### [Access the user's guide (in French)](https://timotheefouqueray.github.io/fosterforest/prospective/tutoriels)
-
-***
-## [Contact](https://timotheefouqueray.github.io/fosterforest/english/contact-eng)
-
-***
-## [French](https://timotheefouqueray.github.io/fosterforest/)
+This work was supported by a grant overseen by the French National Research Agency (ANR) as part of the “Investments d’Avenir” Programme (LabEx BASC; ANR-11-LABX-0034). The funding source had no involvement in this research.
