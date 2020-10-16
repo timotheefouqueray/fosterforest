@@ -23,3 +23,7 @@ En mettant en place un atelier _Foster Forest_, tout.e futur.e maître.sse du je
 2. La tenue d'un atelier nécessite d'en expliciter l'objectif aux participants invités, en leur proposant un renvoi vers ce site pour disposer de plus d'informations.
 
 3. Ni l'équipe de conception de _Foster Forest_, ni AgroParisTech, dépositaire de la propriété intellectuelle de _Foster Forest_, ne peuvent être tenus responsables du déroulement d'une partie. L'équipe de conception reste néanmoins disponible à toute demande de conseil concernant une éventuelle utilisation (voir le [formulaire de contact](https://timotheefouqueray.github.io/fosterforest/contact)).
+
+## Soutien financier
+
+_Foster Forest_ a fait l'objet d'un financement ANR via le LabEx BASC(ANR-11-LABX-0034).
