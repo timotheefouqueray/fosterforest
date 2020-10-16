@@ -18,7 +18,7 @@ A tutorial explains how to install and use _Foster Forest_ software with Cormas.
  
 ## Booklets
 
-The booklets are freely available on request. To get them, please ask me through the ['Contact' page](https://timotheefouqueray.github.io/fosterforest/contact) and #please indicate why and how you plan to use _Foster Forest_.
+The booklets are freely available on request. To get them, please ask me through the ['Contact' page](https://timotheefouqueray.github.io/fosterforest/contact) and **please indicate why and how you plan to use _Foster Forest_**.
 
 The game master's booklet includes:
 - explanations on how to prepare the workshop and the room
