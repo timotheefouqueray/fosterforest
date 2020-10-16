@@ -10,6 +10,8 @@
 
 ### Par où commencer ?
 
+Selon votre expérience de ce type d'ateliers, comptez une à deux demi-journée pour bien vous approprier le jeu.
+
 1. Deux vidéos peuvent vous mettre le pied à l'étrier :
 - La présentation générale de _Foster Forest_, [disponible sur YouTube](https://www.youtube.com/watch?v=1olLn3Z-c5I) (durée 28 min)
 - Un tutoriel vidéo [lui aussi disponible sur YouTube](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be). Il répond à la plupart des questions relatives à l'installation et à l'utilisation de _Foster Forest_.
