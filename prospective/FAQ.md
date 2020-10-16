@@ -36,6 +36,15 @@
   <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_FAQ_ObjectifRecolteAtteintARBRE.jpg" width="400" />
 </p>
 
+- Est-il possible d'acheter des parcelles blanches (tous petits propriétaires) ?
+
+> Ça dépend... Il vous faut demander au "notaire" de ces tous petits propriétaires, non présents dans le jeu : sélectionnez l'outil "Main" dans la fenêtre principale du jeu (la carte), faites un clic droit sur l'avatar du "notaire", et sélectionnez _venteFonciereProprietaireIII_. La plupart du temps, la vente sera refusée, mais il arrive parfois que cela fonctionne... Dans ce cas, suivez les instructions de la fenêtre qui s'affichera.
+
+ 
+<p align="center">
+  <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_FAQ_VenteParcellesBlanches.jpg" width="400" />
+</p>
+
 ### Fonctionnement "invisible" du logiciel
 
 - Comment fonctionne la certification PFSC ?
