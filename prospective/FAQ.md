@@ -10,7 +10,7 @@
 
 Un tutoriel vidéo [disponible sur YouTube](https://www.youtube.com/watch?v=qcaCzB8dMss&feature=youtu.be) répond à la plupart des questions relatives à l'installation et à l'utilisation de _Foster Forest_.
 
-### Fonctionnement du logiciel
+### Utilisation du logiciel
 
 - Est-il possible d'annuler une action ?
 
@@ -19,6 +19,17 @@ Un tutoriel vidéo [disponible sur YouTube](https://www.youtube.com/watch?v=qcaC
 - Comment afficher à l'écran des informations propres à chaque joueur ?
 
 > Il est possible de montrer, en temps réel, la trésorerie des joueurs. Pour cela, sélectionner l'outil "Main" dans la fenêtre principale (carte). Un clic droit sur l'avatar du joueur (personnage noir à l'écran) permet de sélectionner l'action "Voir trésorerie".
+
+- Comment afficher l'objectif de récolte du joueur des forêts domaniales ?
+
+> Il vous faut pour cela sélectionner l'outil "Main" dans la fenêtre principale du jeu (la carte), puis faire un clic droit sur l'avatar de l'ARBRE, et sélectionner _objectifRecolteAtteint_.
+
+ 
+<p align="center">
+  <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_FAQ_ObjectifRecolteAtteintARBRE.jpg" width="400" />
+</p>
+
+### Fonctionnement "invisible" du logiciel
 
 - Comment fonctionne la certification PFSC ?
 
@@ -33,6 +44,7 @@ Les forêts domaniales sont automatiquements certifiées PFSC, et les coûts d'a
 
 > Dans le cas le plus simple, une coupe rase est effectuée sans replantation. La parcelle sera alors l'objet d'une régénération naturelle automatique en feuillus, avec le trio sessile-pédonculé-hêtre.  Ce choix reproduit très grossièrement les processus naturels : on pourra toujours argumenter que les graines de feuillus viennent des parcelles alentours...
 Dans le cas où un joueur voudra régénérer naturellement avec une essence-objectif en tête (feuillue ou résineuse), il lui faudra épargner au moins 1 arbre (porte-graine) lors de la coupe préalable. Concrètement, il faudra demander au logiciel de mener une coupe d'éclaircie très forte (ex: 90%), ne conservant que quelques arbres à l'hectare. Ceci suffit à empêcher le processus de régénération automatique en feuillus.
+
 
 ### Animation d'un atelier
 
