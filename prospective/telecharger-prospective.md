@@ -12,7 +12,7 @@ La version de _Foster Forest_ disponible sur cette page est la version Prospecti
 
 ## Logiciel 
 
-[Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective.zip) 
+La version la plus récente de _Foster Forest Prospective_ date du mois de novembre 2020. [Télécharger le logiciel de la version prospective.](https://timotheefouqueray.github.io/fosterforest/prospective/FosterForest_Prospective_11-2020.zip) 
 
 Un tutoriel explique l'utilisation du logiciel _Foster Forest_ avec Cormas. Il est [disponible sur YouTube.](https://youtu.be/qcaCzB8dMss) N'hésitez pas à aussi aller consulter la [liste des questions fréquentes.](https://timotheefouqueray.github.io/fosterforest/prospective/FAQ)
  
