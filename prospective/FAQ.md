@@ -38,6 +38,15 @@ Selon votre expérience de ce type d'ateliers, comptez une à deux demi-journée
   <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_FAQ_ObjectifRecolteAtteintARBRE.jpg" width="400" />
 </p>
 
+- J'ai voulu fermer une fenêtre de dialogue, mais cela a enclenché l'ouverture d'une multitude d'interfaces... Comment éviter cela ?
+
+> Dans certains cas, le logiciel sous-tendant Foster Forest n'apprécie pas que l'on ferme une fenêtre... Cela arrive particulièrement quand, au lieu de cliquer sur une parcelle pour en ouvrir l'inventaire forestier, votre clic se fait sur le bord d'un personnage noir. Dans ce cas là, la fenêtre ci-dessous à gauche vous demande de préciser l'objet de votre clic. Pour quitter cette interface sans encombres, une précaution d'usage est de bien sélectionner l'option "Parcelle", puis de cliquer sur "Cancel" — ou bien "OK" si vous souhaitez voir l'inventaire forestier de cette parcelle (image ci-dessous à droite.
+ 
+<p align="left">
+  <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_bug_reactToSimpleClick.jpg" width="400" />
+</p>
+
+
 - Est-il possible d'acheter des parcelles blanches (tous petits propriétaires) ?
 
 > Ça dépend... Il vous faut demander au "notaire" de ces tous petits propriétaires, non présents dans le jeu : sélectionnez l'outil "Main" dans la fenêtre principale du jeu (la carte), faites un clic droit sur l'avatar du "notaire", et sélectionnez _venteFonciereProprietaireIII_. La plupart du temps, la vente sera refusée, mais il arrive parfois que cela fonctionne... Dans ce cas, suivez les instructions de la fenêtre qui s'affichera.
