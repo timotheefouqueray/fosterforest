@@ -40,11 +40,13 @@ Selon votre expérience de ce type d'ateliers, comptez une à deux demi-journée
 
 - J'ai voulu fermer une fenêtre de dialogue, mais cela a enclenché l'ouverture d'une multitude d'interfaces... Comment éviter cela ?
 
-> Dans certains cas, le logiciel sous-tendant Foster Forest n'apprécie pas que l'on ferme une fenêtre... Cela arrive particulièrement quand, au lieu de cliquer sur une parcelle pour en ouvrir l'inventaire forestier, votre clic se fait sur le bord d'un personnage noir. Dans ce cas là, la fenêtre ci-dessous à gauche vous demande de préciser l'objet de votre clic. Pour quitter cette interface sans encombres, une précaution d'usage est de bien sélectionner l'option "Parcelle", puis de cliquer sur "Cancel" — ou bien "OK" si vous souhaitez voir l'inventaire forestier de cette parcelle (image ci-dessous à droite.
+> Dans certains cas, le logiciel sous-tendant Foster Forest n'apprécie pas que l'on ferme une fenêtre... Cela arrive particulièrement quand, au lieu de cliquer sur une parcelle pour en ouvrir l'inventaire forestier, votre clic se fait sur le bord d'un personnage noir. Dans ce cas là, la fenêtre ci-dessous à gauche vous demande de préciser l'objet de votre clic. Pour quitter cette interface sans encombres, une précaution d'usage est de bien sélectionner l'option "Parcelle", puis de cliquer sur "Cancel" — ou bien "OK" si vous souhaitez voir l'inventaire forestier de cette parcelle (image ci-dessous à droite).
  
-<p align="left">
-  <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_bug_reactToSimpleClick.jpg" width="400" />
+<p align="center">
+  <img src="https://timotheefouqueray.github.io/fosterforest/images/FF_bug_reactToSimpleClick.jpg" width="350" />
 </p>
+
+> Si jamais vous aviez tout de même une multitude d'interfaces ouvertes : fermez-les toutes, l'interface continuera ensuite de fonctionner normalement.
 
 
 - Est-il possible d'acheter des parcelles blanches (tous petits propriétaires) ?
