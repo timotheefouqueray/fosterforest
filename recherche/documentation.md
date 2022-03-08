@@ -10,6 +10,8 @@
 
 ### Sur _Foster Forest_
 
+En 2022, _Foster Forest_  a fait l'objet d'une publication dans le journal Environmental Modelling & Software, [accessible à ce lien](https://www.sciencedirect.com/science/article/abs/pii/S1364815222000445). Vous pouvez aussi nous demander gratuitement le PDF via le [formulaire contact](https://timotheefouqueray.github.io/fosterforest/contact) de ce site.
+
 _Foster Forest_ a été créé dans le cadre durant le doctorat de Timothée Fouqueray (2016-2019). [Cliquez ici pour accéder au manuscrit de la thèse](https://hal.archives-ouvertes.fr/tel-02457016).
 
 Le jeu a été présenté lors d'une visio-conférence du laboratoire Dynafor. La [captation vidéo est disponible sur YouTube](https://www.youtube.com/watch?v=1olLn3Z-c5I) (durée : 28 min).
