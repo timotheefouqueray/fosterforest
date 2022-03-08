@@ -9,6 +9,8 @@
  
 Cet atelier d'une demi-journée permet à des forestiers publics, des propriétaires privés, des experts forestiers et des gestionnaires d'espaces naturels de tester ou d'imaginer des modes d'adaptations aux dérèglements climatiques en forêt française.
 
+Un [article scientifique](https://www.sciencedirect.com/science/article/abs/pii/S1364815222000445), paru début 2022 dans Environmental Modelling & Software, en détaille (en anglais) la genèse et les résultats.
+
 
 ***
 ## [Un outil de recherche](https://timotheefouqueray.github.io/fosterforest/recherche/recherche)
